@@ -15,6 +15,3 @@ The program gives hints if your guess is too high or too low, and counts how man
 4. The game ends when you guess correctly, showing your total attempts.
 
 ---
-
-   ```bash
-   git clone https://github.com/your-username/guess-the-number.git
